@@ -1,0 +1,18 @@
+ChordName	DegreeNames	Intervals	JA	EN
+
+69	P1,M3,P5,M6,M9
+9-5	P1,M3,d5,m7,M9
+aug7-9	P1,M3,a5,m7,m9
+M9	P1,M3,P5,M7,M9
+aug9	P1,M3,a5,m7,M9
+11	P1,M3,P5,m7,M9,M11
+13	P1,M3,P5,m7,M9,M11,M13
+m69	P1,m3,P5,M6,M9
+m9	P1,m3,P5,m7,M9
+m11	P1,m3,P5,m7,M9,M11
+m13	P1,m3,P5,m7,M9,M11,M13
+aug7	P1,M3,a5,m7
+augM7	P1,M3,P5,M7
+add2	P1,M2,M3,P5
+add4	P1,M3,M4,P5
+
